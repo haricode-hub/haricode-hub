@@ -9,7 +9,7 @@ I graduated from **Amrita Vishwa Vidyapeetham, Amritapuri**, with a passion for 
 
 ## 💼 **Current Role**  
 
-🌟 ** Enginner JMR Infotech**  
+🌟 **Associate Enginner @ JMR Infotech**  
 I am actively working on:  
 - **📊 Data Analysis**: Extracting insights and trends to support decision-making.  
 - **🤖 Machine Learning & AI**: Implementing algorithms and building AI-driven solutions.  
