@@ -69,9 +69,6 @@ Feel free to connect with me to share ideas or work on innovative solutions toge
 ## 📫 **Connect With Me**
 
  
-- 💼 **[LinkedIn](#)*https://www.linkedin.com/in/harishankar-c/*  
-- 
-
----
+- 💼 **[LinkedIn](#)*https://www.linkedin.com/in/harishankar-c/**
 
 ⭐️ _"Innovation is the key to unlocking the future."_  
