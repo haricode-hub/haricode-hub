@@ -25,6 +25,7 @@ I am actively working on:
 - **Python**  
 - **SQL**  
 - **C++**
+  
 
 ### **AI & ML Tools**  
 - **Scikit-learn**  
@@ -38,7 +39,7 @@ I am actively working on:
 - **Vector Databases (Qdrant)**
 
 ### **Other Tools**  
-- **Data Visualization**: Matplotlib, Seaborn, Power BI  
+- **Data Visualization**: Matplotlib, Seaborn 
 - **Version Control**: Git, GitHub  
 - **NLP & Embedding**: SentenceTransformers, Haystack  
 
